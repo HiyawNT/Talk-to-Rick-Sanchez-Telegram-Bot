@@ -1,15 +1,1 @@
-2023-12-21 15:45:00.403141 - User 297229203 (HiyawNt) accessed the bot.
-2023-12-21 16:02:04.491449 - User 297229203 (HiyawNt) accessed the bot.
-2023-12-21 16:03:54.740039 - User 297229203 (HiyawNt) accessed the bot.
-2023-12-21 16:04:29.259533 - User 577023450 (ntemitim) accessed the bot.
-2023-12-21 16:08:16.715529 - User 577023450 (ntemitim) accessed the bot.
-2023-12-21 16:10:23.773381 - User ->  577023450 (Negussie) (ntemitim) accessed the bot.
-2023-12-21 16:28:35.550901 - User ->  UserId = 297229203 FirstName=(Hiyaw_Nt) (HiyawNt) accessed the bot.
-2023-12-21 16:30:37.409951 - User ->  UserId = 577023450 FirstName=(Negussie) (ntemitim) accessed the bot.
-2023-12-21 16:39:38.910042 - User ->  UserId = 577023450 FirstName=(Negussie) (ntemitim) accessed the bot.
-2023-12-21 16:44:13.997674 - User 577023450 Negussie (ntemitim) accessed the bot.
-2023-12-21 16:46:46.838519 - User 577023450 Negussie (ntemitim) accessed the bot.
-2023-12-21 16:50:04.206851 - User 577023450 Negussie (ntemitim) accessed the bot.
-2023-12-21 19:39:32.447414 - User 297229203 Hiyaw_Nt (HiyawNt) accessed the bot.
-2023-12-22 00:08:41.035209 - User 297229203 Hiyaw_Nt (HiyawNt) accessed the bot.
-2023-12-23 00:06:12.083582 - User 1093348754 biruk (None) accessed the bot.
+
