@@ -16,7 +16,7 @@ Follow these steps to install the bot:
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/HiyawNT/Talk-to-Rick-Sanchez-Telegram-Bot.git
 
 2. Navigate to the project directory:
 
