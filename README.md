@@ -2,6 +2,10 @@
 
 This is a Telegram bot that uses the GPT4All model to have interactive conversations with users. The bot mimics the character Rick from the popular TV show, Rick and Morty.
 
+
+# Warning
+This program uses a large language model that is trained to be uncensored and has no Filters It will answer ANYTHING AND EVERYTHING use it at your own risk, I TAKE NO RESPONSIBILITY, This is for educational purposes.
+
 ## Prerequisites
 
 Make sure you have Python 3.8+ installed on your system. You can download Python from [here](https://www.python.org/downloads/).
