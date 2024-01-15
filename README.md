@@ -1,6 +1,6 @@
 # Telegram Bot
 
-This is a Telegram bot that uses the GPT4All model to have interactive conversations with users. The bot mimics the character Rick from the popular TV show, Rick and Morty.
+This is a Telegram bot that uses the GPT4All and a trained Large Language Model(AI) to have interactive conversations with users. The bot mimics the character Rick from the popular TV show, Rick and Morty.
 
 
 # Warning
